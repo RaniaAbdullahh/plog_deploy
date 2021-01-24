@@ -12,7 +12,8 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Your Self Introduction]</p>
+        <p>Hello, I am Rania Abdullah, and I am 24, I studied Biomedical Engineering at the Hashemite University.
+and Since I am an engineer, I have mathematical and design skills, but I am trying to change my skillset after I decided to become a bioinformatics engineer, which means I will work as a programmer, and have to know varied program languages, so that's why I'm here,</p>
         <p>
           (This is a sample website - you’ll be building a site like this in{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
